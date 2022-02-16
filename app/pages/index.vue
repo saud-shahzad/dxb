@@ -33,7 +33,7 @@
           </form>
         </div>
       </div>
-      <p>Dubai is a land of Luxury and Exotic cars, but to exprience the whole of UAE, you need to book Car Rental in Dubai. Although Luxury Car Rental prices are much cheaper in Dubai as compared to other european countries and for the reason, people always choose to Hire Luxury Car in Dubai. When people arrive in Dubai and go to Car Rental Counters over there, They don't find many options for Luxury Car Rental Dubai and for the reason the best option for them is to reserve Luxury Car through online booking. By taking luxury car on rent, You will able to enjoy the beauty of Dubai in easy and comfortable way. There is no doubt that luxury car offer extreme level of performance on the road and you will be eye catching for many peoples around you. Car Rental DXB offers free car delivery service in any where Dubai and even payment will be upon delivery of the car.</p?
+      
       <div class="flex flex-col w-full xl:w-2/5">
         <img
           alt="Hero"
@@ -43,6 +43,12 @@
       </div>
     </div>
   </section>
+  
+  <div>
+  <br>
+  <h2>About Car Rental DXB</h2>
+      <p>Dubai is a land of Luxury and Exotic cars, but to exprience the whole of UAE, you need to book <a href="https://carrentaldxb.com/economic/">Car Rental in Dubai</a>. Although Luxury Car Rental prices are much cheaper in Dubai as compared to other european countries and for the reason, people always choose to Hire Luxury Car in Dubai. When people arrive in Dubai and go to Car Rental Counters over there, They don't find many options for Luxury Car Rental Dubai and for the reason the best option for them is to reserve Luxury Car through online booking. By taking luxury car on rent, You will able to enjoy the beauty of Dubai in easy and comfortable way. There is no doubt that luxury car offer extreme level of performance on the road and you will be eye catching for many peoples around you. Car Rental DXB offers free car delivery service in any where Dubai and even payment will be upon delivery of the car.</p>
+  </div>
 </template>
 
 <script lang="ts">
